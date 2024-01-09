@@ -1,10 +1,7 @@
-name="HashMP CE Multiplayer Mod"
-path="mod/HashMP_CE"
+name="HashMP Classic"
+path="mod/HashMP_Classic"
 picture = "HashMP.jpg"
 tags={
 	"Multiplayer"
-	"Balance"
-	"Gameplay"
-	"Policies"
 }
 supported_version="1.28.*.*"
