@@ -23,7 +23,19 @@ national_focus = DIP
 	clear_scripted_personalities = yes
 	add_ruler_personality = infertile_personality
 }
-
+1440.7.3 = {
+	heir = {
+		name = "Edward"
+		monarch_name = "Edward of Westminster"
+		dynasty = "Westminster"
+		birth_date = 1443.10.13
+		death_date = 1483.8.30
+		claim = 95
+		adm = 1
+		dip = 1
+		mil = 1
+	}
+}
 #1434.1.1 = { leader = {	name = "Richard Neville"	type = general	fire = 3	shock = 3	manuever = 3	siege = 0	death_date = 1460.12.31 } }
 
 1435.1.1 = { leader = {	name = "Richard Plantagenet"	type = general	fire = 2	shock = 4	manuever = 3	siege = 0	death_date = 1460.12.30 } }
