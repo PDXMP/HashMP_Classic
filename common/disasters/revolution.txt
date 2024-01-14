@@ -53,10 +53,10 @@ revolution = {
 			factor = 1
 			num_of_loans = 25
 		}
-		modifier = {
-			factor = 2
-			is_bankrupt = yes
-		}		
+		# modifier = {
+		# 	factor = 2
+		# 	is_bankrupt = yes
+		# }		
 
 	}
 	
