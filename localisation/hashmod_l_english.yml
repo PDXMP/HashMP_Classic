@@ -691,3 +691,5 @@
  desc_h_kongo_mod:0 ""
  h_kongo_unify_tooltip:0 "§Y[Root.GetName]§! owns all colonized provinces in the Central Africa region"
  h_kongo_unify_tooltip2:0 "§Y[Root.GetName]§! owns all colonized provinces in the Kongo region"
+ h_malaya_form_tooltip:0 "§Y[Root.GetName]§! owns all colonized provinces in the Indonesia region"
+ h_malaya_form_tooltip2:0 "§Y[Root.GetName]§! owns all colonized provinces in the Lampung area"
