@@ -62,7 +62,7 @@ plutocracy_ideas = {
 	
 	abolished_serfdom = {
 		possible_mercenaries = 0.2
-		mercenary_discipline = 0.025
+		mercenary_discipline = 0.03
 	}
 	tradition_of_payment = {
 		land_morale = 0.10
