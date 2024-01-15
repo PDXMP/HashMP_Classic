@@ -17,7 +17,7 @@ country_decisions = {
 			NOT = { tag = HSA }
 			NOT = { exists = HAN }
 			OR = {
-				primary_culture = hannoverian #Westphalian
+				#primary_culture = hannoverian #Westphalian
 				tag = DAN
 				tag = HES
 			}
@@ -147,11 +147,13 @@ country_decisions = {
 			NOT = { exists = WES }
 			NOT = { has_reform = celestial_empire }
 			OR = {
-				primary_culture = hannoverian #Westphalian
-				primary_culture = hessian
-				capital_scope = {
-					area = westphalia_area
-				}
+				#primary_culture = hannoverian #Westphalian
+				#primary_culture = hessian
+				tag = DAN
+				tag = HES
+				# capital_scope = {
+				# 	area = westphalia_area
+				# }
 			}
 			NOT = { has_country_flag = formed_westphalia }
 			is_colonial_nation = no
