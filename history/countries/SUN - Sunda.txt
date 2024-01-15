@@ -4,6 +4,11 @@ primary_culture = javanese
 technology_group = chinese
 religion = hinduism
 capital = 2687	# Pakuan
+historical_rival = MLC
+historical_rival = MAJ
+historical_rival = KHM
+historical_rival = TAU
+historical_rival = AYU
 
 1390.1.1 = {
 	monarch = {
