@@ -706,9 +706,9 @@ country_event = {
 }
 
 country_event = { #Inca claims
-	id = hashmp.12
-	title = hashmp.12.t
-	desc = hashmp.12.d
+	id = hashmp.13
+	title = hashmp.13.t
+	desc = hashmp.13.d
 	picture = COURT_eventPicture
 
 	fire_only_once = yes
@@ -723,7 +723,7 @@ country_event = { #Inca claims
 	}
 
 	option = {
-		name = hashmp.12.a
+		name = hashmp.13.a
 		peru_region = {
 			limit = {
 				NOT = { is_core = ROOT }
