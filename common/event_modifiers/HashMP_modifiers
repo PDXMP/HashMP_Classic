@@ -132,3 +132,7 @@ h_kongo_mod = {
 	max_states = 5
 	discipline = 0.05
 }
+
+h_african_modernization_mod ={
+	development_cost = -0.1
+}	
