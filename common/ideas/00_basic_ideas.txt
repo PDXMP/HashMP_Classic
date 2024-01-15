@@ -423,7 +423,7 @@ exploration_ideas = {
 		OR = {
 			technology_group = western 
             technology_group = eastern 
-            technology_group = muslim 
+            technology_group = muslim
 			adm_tech = 7
 		}
 	}
