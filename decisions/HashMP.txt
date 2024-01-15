@@ -316,6 +316,7 @@ country_decisions = {
 	}
 	
 	h_remove_regency = {
+		major = yes
 		potential = {
 			ai = no
 			NOT = { has_country_flag = h_regency_flag }
