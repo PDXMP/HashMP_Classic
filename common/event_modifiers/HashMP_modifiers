@@ -120,3 +120,10 @@ h_ilkhanate_mod = {
 	tolerance_heathen = 3
 	global_unrest = -1
 }
+
+h_cn_overlord_bankrupt = {
+	liberty_desire = 15
+	defensiveness = -0.33
+	manpower_recovery_speed = -0.33
+	reinforce_speed = -0.33
+}
