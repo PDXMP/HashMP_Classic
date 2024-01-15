@@ -56,7 +56,23 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				region = italy_region
+				province_id = 118
+				AND = {
+					OR = {
+						region = italy_region
+					}
+					NOT = {
+						ROOT = {
+							num_of_owned_provinces_with = {
+								value = 50 #out of 34
+								is_core = root
+								OR = {
+									region = italy_region
+								}
+							}
+						}
+					}
+				}
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -66,11 +82,15 @@ country_decisions = {
 		allow = {
 			adm_tech = 10
 			is_free_or_tributary_trigger = yes
-			is_at_war = no
-			italy_region = {
-				type = all
-				owned_by = ROOT
+			num_of_owned_provinces_with = {
+				value = 40 #was 50 but 1.28 has less provinces
+				is_core = root
+				OR = {
+					region = italy_region
+				}
 			}
+			owns_core_province = 118			# Rome
+			is_at_war = no
 		}
 		effect = {
 			if = {
