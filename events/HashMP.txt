@@ -704,3 +704,39 @@ country_event = {
 	}
 	
 }
+
+country_event = { #Inca claims
+	id = hashmp.12
+	title = hashmp.12.t
+	desc = hashmp.12.d
+	picture = COURT_eventPicture
+
+	fire_only_once = yes
+	hidden = yes
+
+	trigger = {
+		tag = INC
+	}
+
+	mean_time_to_happen = {
+		months = 1
+	}
+
+	option = {
+		name = hashmp.12.a
+		peru_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { is_permanent_claim = ROOT }
+			}
+		add_permanent_claim = ROOT
+		}
+		upper_peru_region = {
+			limit = {
+				NOT = { is_core = ROOT }
+				NOT = { is_permanent_claim = ROOT }
+			}
+		add_permanent_claim = ROOT
+		}
+	}
+}
