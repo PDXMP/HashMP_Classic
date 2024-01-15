@@ -224,6 +224,13 @@ country_decisions = {
 			}
 		}
 		effect = {
+			if = {
+				limit = { tag = QAR }
+				add_country_modifier = {
+					name = "h_ilkhanate_mod"
+					duration = 18250
+				}			
+			}
 			change_tag = ILK
 			swap_non_generic_missions = yes
 			add_government_reform = steppe_horde
