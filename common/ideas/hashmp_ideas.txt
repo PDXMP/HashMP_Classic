@@ -406,6 +406,7 @@ AHU_ideas = {
 	}
 	ahu_3 = {
 		cavalry_power = 0.1
+		cav_to_inf_ratio = 0.2
 	}
 	ahu_4 = {
 		inflation_reduction = 0.05
@@ -443,7 +444,7 @@ ARB_ideas = { #Arabian Empire
 		global_sailors_modifier = 0.25
 	}
 	arb_2 = { #Arabian Horsemanship
-		cavalry_cost = -0.1
+		cav_to_inf_ratio = 0.2
 		cavalry_power = 0.2
 	}
 	arb_3 = { #Bedouin Raiders
