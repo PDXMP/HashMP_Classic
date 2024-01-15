@@ -144,7 +144,7 @@ superiority_revolution = {
 			po_revoke_cores
 			po_release_vassals
 			po_release_annexed
-			po_change_religion
+			#po_change_religion
 			po_gold
 			po_annul_treaties
 		}
@@ -161,7 +161,7 @@ superiority_revolution = {
 			po_revoke_cores
 			po_release_vassals
 			po_release_annexed
-			po_change_religion
+			#po_change_religion
 			po_gold
 			po_annul_treaties
 			po_dismantle_revolution
@@ -189,7 +189,7 @@ take_capital_revolution = {
 			po_revoke_cores
 			po_release_vassals
 			po_release_annexed
-			po_change_religion
+			#po_change_religion
 			po_gold
 			po_concede_defeat
 			po_annul_treaties
@@ -208,7 +208,7 @@ take_capital_revolution = {
 			po_revoke_cores
 			po_release_vassals
 			po_release_annexed
-			po_change_religion
+			#po_change_religion
 			po_gold
 			po_concede_defeat
 			po_annul_treaties
@@ -934,6 +934,10 @@ take_province_excommunication = {
 	prestige_factor = 1.25
 	peace_cost_factor = 1.0	
 	
+	defender = {
+		is_excommunication = yes
+	}
+
 	allowed_provinces = {
 		owner = { 
 			is_excommunicated = yes
