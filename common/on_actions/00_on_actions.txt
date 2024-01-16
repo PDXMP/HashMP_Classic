@@ -105,7 +105,15 @@ on_religion_change = {
 		propagate_religion_events.7 #Propagated Country is now Muslim
 	}
 }
-
+if = {
+		limit = {
+			any_known_country = {
+				humiliated_by = ROOT
+			}
+			NOT = { has_country_flag = gecko_show_strength }
+		}
+		set_country_flag = gecko_show_strength
+	}
 # country.
 on_secondary_religion_change = {
 	# Done from code: add_prestige = -50 (Define: CHANGE_SECONDARY_PRESTIGE_HIT)
