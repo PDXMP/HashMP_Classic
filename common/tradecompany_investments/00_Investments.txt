@@ -100,7 +100,7 @@ company_depot = {
 	cost = 600.0
 
 	company_province_area_modifier = {
-		province_trade_power_value = 4
+		province_trade_power_value = 2
 	}
 
 	area_modifier = {
@@ -202,7 +202,7 @@ property_appraiser = {
 	}
 	
 	owner_company_region_modifier = {
-		trade_steering = 0.33
+		trade_steering = 0.15
 	}
 	
 	ai_global_worth = { factor = 0 }
@@ -274,7 +274,7 @@ townships = {
 	}
 
 	owner_modifier = {
-		army_tradition = 0.1
+		army_tradition = 0.03
 	}
 	
 	company_region_modifier = {
@@ -344,7 +344,7 @@ governor_general_mansion = {
 	}
 	
 	owner_modifier = {
-		global_ship_cost = -0.02
+		global_ship_cost = -0.01
 	}
 
 	ai_global_worth = { factor = 2 }
