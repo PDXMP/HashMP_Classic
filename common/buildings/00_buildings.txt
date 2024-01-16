@@ -60,6 +60,7 @@ temple = {
 	time = 12
 	modifier = {
 		local_tax_modifier = 0.4
+		local_missionary_strength = 0.01
 	}
 	
 	ai_will_do = {
@@ -204,7 +205,7 @@ regimental_camp = {
 	cost = 200
 	time = 12
 	modifier = {
-		land_forcelimit = 1.25
+		land_forcelimit = 1
 		monthly_militarized_society = 0.0005
 	}
 
