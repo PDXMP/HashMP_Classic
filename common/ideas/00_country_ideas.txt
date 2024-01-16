@@ -1192,6 +1192,7 @@ TIM_ideas = {
 	}
 	unleash_the_tiger = {
 		shock_damage = 0.1
+		cav_to_inf_ratio = 0.20
 	}
 	chagatai_literature = {
 		legitimacy = 1
@@ -8510,6 +8511,7 @@ YUA_ideas = {
 	}
 	yua_keshik_and_weijun = {
 		shock_damage = 0.1
+		cav_to_inf_ratio = 0.20
 	}
 	yua_a_thousand_miles_as_if_at_home = {
 		movement_speed = 0.15
@@ -10235,6 +10237,7 @@ QAR_ideas = {
 	
 	qar_black_sheep = {
 		global_manpower_modifier = 0.25
+		cav_to_inf_ratio = 0.20
 	}
 	qar_governor_of_azerbaijan = {
 		province_warscore_cost = -0.1
@@ -10458,6 +10461,7 @@ RUM_ideas = {
 	
 	rum_abul_fath = {
 		discipline = 0.05
+		cav_to_inf_ratio = 0.20
 	}
 	rum_king_of_the_east_and_west = {
 		core_creation = -0.20
@@ -12626,6 +12630,7 @@ MOR_ideas = {
 	free = yes
 	mor_marabouts = {
 		idea_cost = -0.1
+		cav_to_inf_ratio = 0.20
 	}
 	mor_slave_soldiers = {
 		land_maintenance_modifier = -0.1
@@ -12784,6 +12789,7 @@ ADU_ideas = {
 	}
 	adu_taifa_adminstration = {
 		vassal_forcelimit_bonus = 1
+		cav_to_inf_ratio = 0.20
     }
 	adu_ahl_uhl_dhimma = {
 		tolerance_heathen = 3
