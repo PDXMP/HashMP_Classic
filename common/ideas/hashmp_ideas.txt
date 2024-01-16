@@ -399,13 +399,15 @@ AHU_ideas = {
 	free = yes
 
 	ahu_1 = {
-		global_unrest = -1
+		reinforce_speed = 0.25
+		reinforce_cost_modifier = -0.10
 	}
 	ahu_2 = {
 		global_own_trade_power = 0.25
 	}
 	ahu_3 = {
-		cavalry_power = 0.1
+		cavalry_power = 0.2
+		cav_to_inf_ratio = 0.2
 	}
 	ahu_4 = {
 		inflation_reduction = 0.05
@@ -420,6 +422,7 @@ AHU_ideas = {
 	}
 	ahu_7 = {
 		no_religion_penalty = yes
+		global_unrest = -1
 	}
 }
 
