@@ -12019,11 +12019,11 @@ DEC_ideas = {
 DLH_ideas = {
 	start = {
 		cavalry_power = 0.15
-		diplomatic_reputation = 1
+		cavalry_cost = -0.1
 	}
 	
 	bonus = {
-		num_accepted_cultures = 1
+		infantry_power = 0.1
 	}
 	
 	trigger = {
