@@ -399,7 +399,7 @@ AHU_ideas = {
 	free = yes
 
 	ahu_1 = {
-		reinforce_speed = 0.25 
+		reinforce_speed = 0.25
 		reinforce_cost_modifier = -0.10
 	}
 	ahu_2 = {

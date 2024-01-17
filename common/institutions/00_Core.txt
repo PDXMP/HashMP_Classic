@@ -78,6 +78,8 @@ feudalism = {
 					province_id = 2329
 					province_id = 2331
 					province_id = 2999
+					province_id = 1185
+					province_id = 1075
 					#foffynewworld
 					province_id = 2626
 					province_id = 852
