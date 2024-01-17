@@ -789,6 +789,7 @@ PER_ideas = {
 	}
 	the_ghulams = {
 		discipline = 0.05
+		cav_to_inf_ratio = 0.2
 	}
 	improved_silk_road = {
 		caravan_power = 0.2
@@ -10058,6 +10059,7 @@ KHO_ideas = {
 	}
 	kho_rein_in_the_turko_mongol_emirs = {
 		army_tradition = 0.5
+		cav_to_inf_ratio = 0.2
 	}
 	kho_princely_appanages = {
 		global_manpower_modifier = 0.1
