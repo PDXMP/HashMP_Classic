@@ -673,9 +673,8 @@ gc_spain_3 = {
 		# free mission
 
 		trigger = {
-			army_size_percentage = 1
-			navy_size_percentage = 1
-			manpower_percentage = 0.6
+			army_size_percentage = 0.75
+			navy_size_percentage = 0.75
 			num_of_generals = 1
 		}
 
