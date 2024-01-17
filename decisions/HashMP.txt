@@ -592,7 +592,7 @@ country_decisions = {
 							is_empty = no
 						}
 						AND = {
-							area = kongo_region
+							region = kongo_region
 							is_empty = no
 						}
 					}
