@@ -3404,6 +3404,7 @@ AFG_ideas = {
 	}
 	pashtunwali = {
 		war_exhaustion_cost = -0.15
+		cav_to_inf_ratio = 0.2
 	}
 	shadows_of_the_hindu_kush = {
 		defensiveness = 0.25
