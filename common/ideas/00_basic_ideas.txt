@@ -980,7 +980,7 @@ naval_ideas = {
 	}
 	press_gangs = {
 		global_ship_recruit_speed = -0.1
-		global_ship_repair = 0.1
+		global_ship_repair = 0.15
 	}
 	oak_forests_for_ships = {
 		global_sailors = 2000
