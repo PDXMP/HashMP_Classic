@@ -653,7 +653,7 @@ messenger_ships = {
 	}	
 	
 	naval_morale = 0.05
-	global_ship_recruit_speed = -0.15
+	global_ship_recruit_speed = -0.10
 	
 	ai_will_do = {
 		factor = 1
