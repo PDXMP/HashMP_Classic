@@ -98,3 +98,16 @@ portuguese_marines =
 
 	button_gfx = 7
 }
+
+h_defensive_fleet =
+{
+	can_select = {
+		full_idea_group = naval_ideas
+	}
+
+	country_modifier = {
+		own_coast_naval_combat_bonus = 2.0
+	}
+
+	button_gfx = 5
+}
