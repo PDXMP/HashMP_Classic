@@ -115,8 +115,8 @@ the_wooden_wall = {
 		full_idea_group = defensive_ideas
 	}
 	
-	sailor_maintenance_modifer = -0.1
-	naval_attrition = -0.5
+	naval_morale = 0.05
+	naval_attrition = -0.2
 	
 	ai_will_do = {
 		factor = 1
