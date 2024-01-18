@@ -597,10 +597,12 @@ maritime_ideas = {
 		free_leader_pool = 1
 	}
 	merchant_marine = {
-		global_sailors_modifier = 0.25
+		global_ship_trade_power = 0.25
+		global_foreign_trade_power = 0.1
 	}
 	sheltered_ports = {
-		global_ship_repair = 0.1
+		naval_attrition = -0.1
+		global_sailors_modifier = 0.25
 	}
 	grand_navy = {
 		naval_forcelimit_modifier = 0.25
@@ -610,7 +612,6 @@ maritime_ideas = {
 	}
 	excellent_shipwrights = {
 		leader_naval_manuever = 1
-		global_ship_trade_power = 0.25
 	}
 	naval_fighting_instruction = {
 		privateer_efficiency = 0.33
@@ -959,30 +960,30 @@ naval_ideas = {
 	}
 
 	bonus = {
-		global_naval_engagement_modifier = 0.1
+		sailors_recovery_speed = 0.20
 	}
 
-	boarding_parties = {
-		leader_naval_shock = 1
-		global_naval_barrage_cost = -0.33
-	}
-	improved_rams = {
-		galley_power = 0.10
-	}
 	naval_cadets = {
-		leader_naval_fire = 1
+		navy_tradition = 1
 		free_leader_pool = 1
 	}
+	improved_rams = {
+		galley_power = 0.15
+		galley_cost = -0.1
+	}
+	boarding_parties = {
+		blockade_efficiency = 0.50
+		global_naval_barrage_cost = -0.50
+	}
 	naval_glory = {
-		prestige_from_naval = 1.0
-		naval_tradition_from_battle = 1.0
+		naval_forcelimit = 20
 	}
 	press_gangs = {
-		blockade_efficiency = 0.50
-		sailors_recovery_speed = 0.25
+		global_ship_recruit_speed = -0.1
+		global_ship_repair = 0.1
 	}
 	oak_forests_for_ships = {
-		heavy_ship_power = 0.10
+		global_sailors = 2000
 	}
 	superior_seamanship = {
 		movement_speed = 0.10
