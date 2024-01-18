@@ -2035,6 +2035,7 @@ guiTypes = {
 			horizontal = 1
 			spacing = 0
 			borderSize = {x = 0 y = 0}
+			scrollbartype = "standardlistbox_slider"
 		}
 		
 		guiButtonType = {
