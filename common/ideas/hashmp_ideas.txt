@@ -820,6 +820,7 @@ CAL_ideas = { #California
 	}
 	cal_2 = { #Gold Rush
 		global_trade_goods_size_modifier = 0.1
+		inflation_action_cost = -0.1
 	}
 	cal_3 = { #Outlaw Country
 		mercenary_discipline = 0.05
