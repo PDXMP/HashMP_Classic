@@ -33,7 +33,7 @@ h_csh_anc1_1 = {
 }
 
 h_csh_anc1_2 = {
-	global_tax_modifier = 0.1
+	global_tax_modifier = 0.15
 }
 
 h_csh_anc1_3 = {
