@@ -320,12 +320,14 @@ NED_ideas = {
 	}
 	polders = {
 		development_cost = -0.1
+		global_own_trade_power = 0.10
 	}
 	instructie_voor_de_admiraliteiten = {
 		leader_naval_fire = 2
 	}
 	embrace_humanism = {
 		tolerance_heretic = 3
+		republican_tradition = 0.1
 	}
 	army_sappers = {
 		siege_ability = 0.10
@@ -840,7 +842,7 @@ BUR_Ideas = {
 	}
 	integrated_towns = {
 		trade_efficiency = 0.10
-		global_own_trade_power = 0.10
+		#global_own_trade_power = 0.10
 	}
 	bur_regimental_system = {
 		global_manpower_modifier = 0.25
