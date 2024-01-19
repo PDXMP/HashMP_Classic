@@ -887,3 +887,27 @@ country_event = {
 		}
 	}
 }
+
+# Hidden event to enforce colonial units onto new colonies
+country_event = {
+	id = hashmp.19
+	title = hashmp.19.title
+	desc = hashmp.19.desc
+	picture = BIG_BOOK_eventPicture
+	hidden = yes
+	fire_only_once = yes
+
+	trigger = {
+		is_colonial_nation = yes
+		NOT = { unit_type = colonial }
+	}
+
+	mean_time_to_happen = {
+		days = 1
+	}
+	
+	option = {
+		name = hashmp.19.a
+		change_unit_type = colonial
+	}
+}
