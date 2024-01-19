@@ -35,14 +35,14 @@ country_decisions = {
 		}
 		provinces_to_highlight = {
 			OR = {
-				province_id = 151		# Constantinople
-				province_id = 316		# Iznik
-				province_id = 323		# Konya
-				province_id = 326		# Ankara
-				province_id = 329		# Sivas
-				province_id = 331		# Erzurum
-				province_id = 2301		# Kayseri
-				province_id = 4312		# Eskeshehir
+				area = rum_area
+				area = karaman_area
+				area = ankara_area
+				area = germiyan_area
+				area = kastamonu_area
+				province_id = 2302	# Icel
+				province_id = 327	# Adana
+				province_id = 4298	# Ayntab
 			}
 			OR = {
 				NOT = { owned_by = ROOT }
@@ -55,14 +55,14 @@ country_decisions = {
 			is_nomad = no
 			religion_group = muslim
 			NOT = { exists = RUM }
-			owns_core_province = 151		# Constantinople
-			owns_core_province = 316		# Iznik
-			owns_core_province = 323		# Konya
-			owns_core_province = 326		# Ankara
-			owns_core_province = 329		# Sivas
-			owns_core_province = 331		# Erzurum
-			owns_core_province = 2301		# Kayseri
-			owns_core_province = 4312		# Eskeshehir
+			rum_area = { type = all is_core = ROOT owned_by = ROOT }
+			karaman_area = { type = all is_core = ROOT owned_by = ROOT }
+			ankara_area = { type = all is_core = ROOT owned_by = ROOT }
+			germiyan_area = { type = all is_core = ROOT owned_by = ROOT }
+			kastamonu_area = { type = all is_core = ROOT owned_by = ROOT }
+			owns_core_province = 2302	# Icel
+			owns_core_province = 327	# Adana
+			owns_core_province = 4298	# Ayntab
 		}
 		effect = {
 			change_tag = RUM
