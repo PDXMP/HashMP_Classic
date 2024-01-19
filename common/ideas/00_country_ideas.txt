@@ -7330,7 +7330,6 @@ CYI_ideas = {
 	}
 	cyi_strengthen_yi_caste_system = {
 		stability_cost_modifier = -0.15
-		cav_to_inf_ratio = 0.2
 	}
 	cyi_deep_in_mountains = {
 		hostile_attrition = 1.0
