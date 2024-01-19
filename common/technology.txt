@@ -150,7 +150,11 @@ groups = {
 		start_cost_modifier = 1.5
 		nation_designer_unit_type = south_american
 		is_primitive = yes
-	}	
+	}
+	colonial = {
+		start_level = 3
+		start_cost_modifier = 0
+	}
 	
 	
 	high_american = {
