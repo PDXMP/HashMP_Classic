@@ -861,6 +861,7 @@ CSC_ideas = { #Columbia
 	}
 	csc_2 = { #Lessons of the Frontier
 		army_tradition_decay = -0.01
+		land_attrition = -0.10
 	}
 	csc_3 = { #Alki
 		prestige = 1
