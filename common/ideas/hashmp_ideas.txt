@@ -887,7 +887,7 @@ CUB_ideas = { #Cuba
 	}
 	
 	bonus = {
-		ship_durability = 0.05
+		ship_durability = 0.075
 	}
 	
 	trigger = {
@@ -906,7 +906,7 @@ CUB_ideas = { #Cuba
 		global_ship_cost = -0.1
 	}
 	cub_4 = { #Sugar and Slaves
-		production_efficiency = 0.1
+		global_trade_goods_size_modifier = 0.1
 	}
 	cub_5 = { #The Crossroads
 		trade_efficiency = 0.1
