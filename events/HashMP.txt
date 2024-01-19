@@ -899,7 +899,7 @@ country_event = {
 
 	trigger = {
 		is_colonial_nation = yes
-		NOT = { unit_type = colonial }
+		NOT = { unit_type = h_colonial }
 	}
 
 	mean_time_to_happen = {
@@ -908,6 +908,6 @@ country_event = {
 	
 	option = {
 		name = hashmp.19.a
-		change_unit_type = colonial
+		change_unit_type = h_colonial
 	}
 }

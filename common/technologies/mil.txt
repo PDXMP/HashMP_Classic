@@ -62,8 +62,8 @@ technology = {
 	enable = mamluk_cavalry_charge	
 	enable = south_american_warfare	
 	enable = ha_xantican_warrior
-	enable = colonial_infantry_1
-	enable = colonial_cavalry_1
+	enable = h_colonial_infantry_1
+	enable = h_colonial_cavalry_1
 }
 
 technology = {
@@ -129,8 +129,8 @@ technology = {
 	enable = chinese_footsoldier		
 	enable = japanese_footsoldier	
 	enable = ha_reformed_xantican_warrior
-	enable = colonial_infantry_morale_5
-	enable = colonial_infantry_shock_5
+	enable = h_colonial_infantry_morale_5
+	enable = h_colonial_infantry_shock_5
 	
 	combat_width = 2
 }
@@ -161,7 +161,7 @@ technology = {
 	enable = shaybani	
 	enable = high_american_horsemen
 	enable = chevauchee
-	enable = colonial_cavalry_6
+	enable = h_colonial_cavalry_6
 	
 	combat_width = 2
 }
@@ -210,8 +210,8 @@ technology = {
 	enable = asian_arquebusier	
 	enable = steppe_raiders
 	enable = ha_xiuhtecuhtli_soldier
-	enable = colonial_infantry_morale_9
-	enable = colonial_infantry_shock_9
+	enable = h_colonial_infantry_morale_9
+	enable = h_colonial_infantry_shock_9
 	military_tactics 	= 	0.25
 	combat_width = 1	
 }
@@ -244,7 +244,7 @@ technology = {
 	enable = indian_elephant	
 	enable = steppe_riders
 	enable = high_american_rifle_cavalry
-	enable = colonial_cavalry_10
+	enable = h_colonial_cavalry_10
 }
 
 technology = {
@@ -286,9 +286,9 @@ technology = {
 	enable = ethiopian_mountain_warfare		
 	enable = steppe_footmen
 	enable = ha_xiuhtecuhtlian_infantry
-	enable = colonial_infantry_morale_12
-	enable = colonial_infantry_shock_12
-	enable = colonial_infantry_fire_12
+	enable = h_colonial_infantry_morale_12
+	enable = h_colonial_infantry_shock_12
+	enable = h_colonial_infantry_fire_12
 }
 
 technology = {
@@ -330,7 +330,7 @@ technology = {
 	enable = reformed_mughal_mansabdar	
 	enable = steppe_lancers
 	enable = high_american_hussar
-	enable = colonial_cavalry_14
+	enable = h_colonial_cavalry_14
 	
 	combat_width = 2
 }
@@ -403,7 +403,7 @@ technology = {
 	enable = leather_cannon	
 	enable = steppe_mounted_raiders
 	enable = ha_xoloti
-	enable = colonial_cavalry_18
+	enable = h_colonial_cavalry_18
 	
 	combat_width = 2
 }
@@ -435,9 +435,9 @@ technology = {
 	enable = south_american_swarm
 	enable = steppe_infantry
 	enable = high_american_swarm
-	enable = colonial_infantry_morale_19
-	enable = colonial_infantry_shock_19
-	enable = colonial_infantry_fire_19
+	enable = h_colonial_infantry_morale_19
+	enable = h_colonial_infantry_shock_19
+	enable = h_colonial_infantry_fire_19
 }
 
 technology = {
@@ -523,9 +523,9 @@ technology = {
 	enable = steppe_cavalry
 	enable = ha_foreign_influenced_infantry
 	enable = high_american_dragoon
-	enable = colonial_cavalry_morale_23
-	enable = colonial_cavalry_shock_23
-	enable = colonial_cavalry_fire_23
+	enable = h_colonial_cavalry_morale_23
+	enable = h_colonial_cavalry_shock_23
+	enable = h_colonial_cavalry_fire_23
 }
 
 technology = {
@@ -587,9 +587,9 @@ technology = {
 	enable = eastern_skirmisher
 	enable = steppe_rifles
 	enable = ha_reformed_influenced_infantry
-	enable = colonial_infantry_morale_26
-	enable = colonial_infantry_shock_26
-	enable = colonial_infantry_fire_26
+	enable = h_colonial_infantry_morale_26
+	enable = h_colonial_infantry_shock_26
+	enable = h_colonial_infantry_fire_26
 	
 	combat_width = 2
 }
@@ -628,9 +628,9 @@ technology = {
 	enable = french_impulse
 	enable = british_square
 	enable = steppe_uhlans
-	enable = colonial_cavalry_morale_28
-	enable = colonial_cavalry_shock_28
-	enable = colonial_cavalry_fire_28
+	enable = h_colonial_cavalry_morale_28
+	enable = h_colonial_cavalry_shock_28
+	enable = h_colonial_cavalry_fire_28
 }
 
 technology = {
@@ -667,9 +667,9 @@ technology = {
 	enable = reformed_westernized_incan		
 	enable = reformed_steppe_rifles
 	enable = ha_reformed_xoloti
-	enable = colonial_infantry_morale_30
-	enable = colonial_infantry_shock_30
-	enable = colonial_infantry_fire_30
+	enable = h_colonial_infantry_morale_30
+	enable = h_colonial_infantry_shock_30
+	enable = h_colonial_infantry_fire_30
 }
 
 technology = {

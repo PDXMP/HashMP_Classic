@@ -169,7 +169,7 @@ groups = {
 			value = 75
 		}
 	}
-	colonial = {
+	h_colonial = {
 		start_level = 3
 		start_cost_modifier = 0
 	}
