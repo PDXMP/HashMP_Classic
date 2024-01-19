@@ -62,6 +62,8 @@ technology = {
 	enable = mamluk_cavalry_charge	
 	enable = south_american_warfare	
 	enable = ha_xantican_warrior
+	enable = colonial_infantry_1
+	enable = colonial_cavalry_1
 }
 
 technology = {
