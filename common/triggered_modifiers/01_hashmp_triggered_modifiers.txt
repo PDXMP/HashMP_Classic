@@ -120,7 +120,7 @@ t_low_repubtrad = {
 			republican_tradition = 40
 		}
 	}
-	all_power_cost = 0.2
+	all_power_cost = 0.25
 }
 
 t_cn_army_1 = {
