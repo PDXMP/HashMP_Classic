@@ -20,32 +20,32 @@ country_decisions = {
 		provinces_to_highlight = {
 			OR = {
 				area = thrace_area
-				area = hudavendigar_area
-				area = aydin_area
-				area = germiyan_area
+				area = bulgaria_area
+				area = macedonia_area
+				area = albania_area
 				province_id = 144	# Epirus
 				province_id = 145	# Morea
 				province_id = 146	# Athens
 				province_id = 147	# Thessaly
-				province_id = 148	# Macedonia
+				#province_id = 148	# Macedonia
 				province_id = 1773	# Achea
-				province_id = 1853	# Kastoria
+				#province_id = 1853	# Kastoria
 				
 			}
 			NOT = { owned_by = ROOT }
 		}
 		allow = {
 			thrace_area = { type = all is_core = ROOT owned_by = ROOT }
-			hudavendigar_area = { type = all is_core = ROOT owned_by = ROOT }
-			aydin_area = { type = all is_core = ROOT owned_by = ROOT }
-			germiyan_area = { type = all is_core = ROOT owned_by = ROOT }
+			bulgaria_area = { type = all is_core = ROOT owned_by = ROOT }
+			macedonia_area = { type = all is_core = ROOT owned_by = ROOT }
+			albania_area = { type = all is_core = ROOT owned_by = ROOT }
 			owns_core_province = 144  # Epirus
 			owns_core_province = 145  # Morea
 			owns_core_province = 146  # Athens
 			owns_core_province = 147  # Thessaly
-			owns_core_province = 148  # Macedonia
+			#owns_core_province = 148  # Macedonia
 			owns_core_province = 1773  # Achea
-			owns_core_province = 1853  # Kastoria
+			#owns_core_province = 1853  # Kastoria
 			NOT = { exists = BYZ }
 			is_at_war = no
 			is_free_or_tributary_trigger = yes

@@ -820,6 +820,7 @@ CAL_ideas = { #California
 	}
 	cal_2 = { #Gold Rush
 		global_trade_goods_size_modifier = 0.1
+		inflation_action_cost = -0.1
 	}
 	cal_3 = { #Outlaw Country
 		mercenary_discipline = 0.05
@@ -860,6 +861,7 @@ CSC_ideas = { #Columbia
 	}
 	csc_2 = { #Lessons of the Frontier
 		army_tradition_decay = -0.01
+		land_attrition = -0.10
 	}
 	csc_3 = { #Alki
 		prestige = 1
@@ -887,7 +889,7 @@ CUB_ideas = { #Cuba
 	}
 	
 	bonus = {
-		ship_durability = 0.05
+		ship_durability = 0.075
 	}
 	
 	trigger = {
@@ -906,7 +908,7 @@ CUB_ideas = { #Cuba
 		global_ship_cost = -0.1
 	}
 	cub_4 = { #Sugar and Slaves
-		production_efficiency = 0.1
+		global_trade_goods_size_modifier = 0.1
 	}
 	cub_5 = { #The Crossroads
 		trade_efficiency = 0.1
