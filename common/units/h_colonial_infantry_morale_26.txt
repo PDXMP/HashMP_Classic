@@ -1,6 +1,6 @@
 # 
 
-unit_type = colonial
+unit_type = h_colonial
 type = infantry
 
 maneuver = 1
