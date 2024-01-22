@@ -7,4 +7,3 @@ tags={
 }
 supported_version="1.28.*.*"
 path="mod/HashMP_Classic"
-remote_file_id="1600002838"
